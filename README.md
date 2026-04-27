@@ -1,6 +1,6 @@
-<h1 align="center">Hi My name is Elisabeth</h1>
+<h1 align="center">Hi 👋 My name is Elisabeth</h1>
 <p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Arial, sans-serif;">
-  Aspiring developer
+  Aspiring developer👾
 </p>
 
 > I've been learning web development for the past few months, building a solid foundation in HTML & CSS, and getting familiar with JavaScript. Currently focused on improving my JavaScript skills.
