@@ -1,22 +1,13 @@
-<h1 align="center">Hi, I'm Elisabeth ✨</h1>
-
-<p align="center">
-  <em>Aspiring Developer</em>
+<h1 align="center">Hi My name is Elisabeth</h1>
+<p align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Arial, sans-serif;">
+  Aspiring developer
 </p>
 
----
+> I've been learning web development for the past few months, building a solid foundation in HTML & CSS, and getting familiar with JavaScript. Currently focused on improving my JavaScript skills.
 
-## 🫧 About Me
-
-- 🌱 I’ve been learning web development for the past few months  
-- 🧱 Building a solid foundation in **HTML**, **CSS**, and **JavaScript**  
-- 📍 Based in Germany  
-- 📬 Contact me: **elisabeth.a.f003@gmail.com**  
-- ⚡ Currently improving my JavaScript skills  
+<br/>
 
 ---
-
-## 💎 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -24,40 +15,47 @@
 
 ---
 
-## 🧊 Featured Projects
+### ✦ &nbsp;Projects&nbsp; ✦
 
-<p align="center">
-
-<a href="https://github.com/elisabeth491/Portfolio-Elisabeth">
-  <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Portfolio&fontSize=24&fontAlign=50&fontAlignY=50&desc=My%20personal%20website&descAlign=50&descAlignY=75" />
-</a>
-
-<a href="https://github.com/elisabeth491/Oakley-concept-page">
-  <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Oakley%20Concept&fontSize=24&fontAlign=50&fontAlignY=50&desc=Design%20concept%20page&descAlign=50&descAlignY=75" />
-</a>
-
-<a href="https://github.com/elisabeth491/To-Do-App">
-  <img width="300" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=To-Do%20App&fontSize=24&fontAlign=50&fontAlignY=50&desc=Simple%20task%20manager&descAlign=50&descAlignY=75" />
-</a>
-
-</p>
-
----
-
-## 🧷 Aesthetic Touch
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glassy&text1=Clean%20Code&text2=Soft%20UI&width=800&height=100" />
-</p>
-
----
-
-## 🌙 Philosophy
-
-> “Keep it simple. Keep it clean. Make it beautiful.”
+<!-- Projects Section -->
+<div 
+<br/>
+<table border="0" cellpadding="6" cellspacing="0">
+<tr>
+<td>
+  <a href="https://github.com/elisabeth491/Portfolio-Elisabeth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elisabeth491&repo=Portfolio-Elisabeth&theme=buefy&bg_color=ffffff&border_color=d4e8ff&icon_color=a8edea&title_color=444&text_color=666&border_radius=16" />
+  </a>
+</td>
+<td>
+  <a href="https://github.com/elisabeth491/Oakley-concept-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elisabeth491&repo=Oakley-concept-page&theme=buefy&bg_color=ffffff&border_color=fed6e3&icon_color=f9a8d4&title_color=444&text_color=666&border_radius=16" />
+  </a>
+</td>
+<td>
+  <a href="https://github.com/elisabeth491/To-Do-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elisabeth491&repo=To-Do-App&theme=buefy&bg_color=ffffff&border_color=d4e8ff&icon_color=a8edea&title_color=444&text_color=666&border_radius=16" />
+  </a>
+</td>
+</tr>
+</table>
+</div>
+<br/>
 
 ---
 
-<p align="center">
-  ✦ Thanks for visiting my profile ✦
-</p>
+<!-- Contact -->
+<div align="center">
+
+<br/>
+<table border="0" cellpadding="6" cellspacing="0">
+<tr>
+<td>
+  <a href="mailto:elisabeth.a.f003@gmail.com">
+    <img src="https://img.shields.io/badge/✉%20%20elisabeth.a.f003%40gmail.com-b8eae4?style=flat-square&labelColor=b8eae4&color=b8eae4"/>
+  </a>
+</td>
+</tr>
+</table>
+</div>
+<br/>
